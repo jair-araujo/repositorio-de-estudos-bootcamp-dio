@@ -2,7 +2,7 @@
 
 Repositório criado para o projeto de Git/Github com o intuito de organizar os estudos.
 
-## Cursos
+## 💻 Cursos
 
 - [x] Lógica de Programação Essencial
 - [x] Aprenda o que são Estruturas de Dados e Algoritmos
@@ -37,13 +37,13 @@ Repositório criado para o projeto de Git/Github com o intuito de organizar os e
 - [ ] Node.js com Bancos de Dados Relacionais (SQL)
 - [ ] Microserviços e Integrações com Node.js
 
-## Projetos
+## 🛠 Projetos
 
 - [x] Criando seu primeiro Repositório no GitHub para compartilhar o seu progresso
 - [x] Recriando Interface do Netflix
 - [ ] Integrando um Backend em Node.js com um Frontend em React para um E-commerce
 
-## Desafios
+## 🚀 Desafios
 
 - [ ] Programando com JS
 
