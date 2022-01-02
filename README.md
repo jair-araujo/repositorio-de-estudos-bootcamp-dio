@@ -1,16 +1,18 @@
 # Repositório de Estudos do bootcamp da [DIO](https://web.dio.me/)
+
 Repositório criado para o projeto de Git/Github com o intuito de organizar os estudos.
 
 ## Cursos
-- [X] Lógica de Programação Essencial
-- [X] Aprenda o que são Estruturas de Dados e Algoritmos
-- [X] Introdução ao Git e ao Github
-- [X] Projetos ágeis com SCRUM
-- [X] Introdução a criação de Websites com HTML5 e CSS3
-- [X] Construindo páginas para Internet com BootStrap
-- [X] IDE Instalação e Configuração (Visual Studio Code)
-- [X] Introdução ao Javascript
-- [X] Sintaxe Básica em Javascript
+
+- [x] Lógica de Programação Essencial
+- [x] Aprenda o que são Estruturas de Dados e Algoritmos
+- [x] Introdução ao Git e ao Github
+- [x] Projetos ágeis com SCRUM
+- [x] Introdução a criação de Websites com HTML5 e CSS3
+- [x] Construindo páginas para Internet com BootStrap
+- [x] IDE Instalação e Configuração (Visual Studio Code)
+- [x] Introdução ao Javascript
+- [x] Sintaxe Básica em Javascript
 - [ ] Sintaxe e Operadores
 - [ ] Variáveis e Tipos
 - [ ] Funções
@@ -34,11 +36,19 @@ Repositório criado para o projeto de Git/Github com o intuito de organizar os e
 - [ ] Explorando o Estilo Arquitetural REST com Node.js
 - [ ] Node.js com Bancos de Dados Relacionais (SQL)
 - [ ] Microserviços e Integrações com Node.js
+
 ## Projetos
-- [X] Criando seu primeiro Repositório no GitHub para compartilhar o seu progresso
-- [X] Recriando Interface do Netflix
+
+- [x] Criando seu primeiro Repositório no GitHub para compartilhar o seu progresso
+- [x] Recriando Interface do Netflix
 - [ ] Integrando um Backend em Node.js com um Frontend em React para um E-commerce
 
 ## Desafios
 
 - [ ] Programando com JS
+
+### ✏ Autor
+
+Feito com ❤ por Jair Araujo ☕ Entre em contato!
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jairaraujo/)
